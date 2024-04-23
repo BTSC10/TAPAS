@@ -1,5 +1,5 @@
 # TAPAS
-
+This is TAPAS, the software suite developed to capture and analyse beam profiles. It is explained and demonstated in the project report "Indirect High Power Beam Profile Measurements"
 The main application is TAPAS\_main.py. 
 There are four separate files that contain useful functions and classes that are used in the main application and offline processing programs:
  * opencv\_modules.py contains the wrappers and functions that utilise the opencv module for image processing.
